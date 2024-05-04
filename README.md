@@ -148,23 +148,17 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+    <a href="#"><img alt="MVVM Architecture" src="https://img.shields.io/badge/MVVM%20Architecture%20-%23F05033.svg?style=plastic&logo=mvvmarchitecture&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit%20-%23F05033.svg?style=plastic&logo=retrofit&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="DataBinding" src="https://img.shields.io/badge/DataBinding-%23181717.svg?style=plastic&logo=databinding&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%2334A853.svg?style=plastic&logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Room Database" src="https://img.shields.io/badge/Room%20Database%20-%2334A853.svg?style=plastic&logo=roomdatabase&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Coroutines" src="https://img.shields.io/badge/Coroutines-000000?style=plastic&logo=coroutines&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-FE7A16?style=plastic&logo=express.js&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img alt="Navigation Components" src="https://img.shields.io/badge/Navigation%20Components-FE7A16?style=plastic&logo=navigationcomponents&logoColor=white"></a>
 </p>
 
 
