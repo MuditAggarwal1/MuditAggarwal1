@@ -144,7 +144,7 @@
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Android.gif?raw=true" width = 50px>  </picture> Android
+ ### <picture> <img src = "https://github.com/MuditAggarwal1/CashMate/assets/135834440/a17a3b06-2a2d-4727-9e88-7719aa210b9b" width = 50px>  </picture> Android
  
 <p align="center">
   &emsp;
