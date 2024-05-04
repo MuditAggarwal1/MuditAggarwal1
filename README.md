@@ -14,7 +14,7 @@
 - :computer:  I have successfully solved over `750 Data Structures and Algorithm problems` on platforms like `GeeksforGeeks (GFG), LeetCode, and HackerRank`.
 - :trophy:  I have internship experience working as an `Android Developer` at [Meet University](https://www.meetuniversity.com/home) and as a `Software Developer` at [Alphabet Technology](https://www.alphabettechnology.in/).
 - :information_desk_person: All of my projects are available [here.](https://github.com/MuditAggarwal1?tab=repositories)
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love using `Software` as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xzQNR01MKlJzq849rJ_AScTao44BRGsh/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://mudit-aggarwal-portfolio.vercel.app/).
@@ -173,9 +173,8 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
+</br></br>	
+## 🐍 A Snake Eating My Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
