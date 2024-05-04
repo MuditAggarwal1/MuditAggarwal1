@@ -9,10 +9,10 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school:  I am pursuing Bachelor of Technology (B.Tech) in Computer Science Engineering at [Indian Institute of Information Technology, Una](https://www.iiitu.ac.in/).
-- :student:  I am currently deepening my knowledge in Software Development and Data Structures & Algorithms.
-- :computer:  I have successfully solved over 750 Data Structures and Algorithm problems on platforms like GeeksforGeeks (GFG), LeetCode, and HackerRank.
-- :trophy:  I have internship experience working as an Android Developer at Meet University and as a Software Developer at Alphabet Technology.
+- :school:  I am pursuing `Bachelor of Technology (B.Tech)` in `Computer Science Engineering` at [`Indian Institute of Information Technology, Una`](https://www.iiitu.ac.in/).
+- :student:  I am currently deepening my knowledge in `Software Development` and `Data Structures & Algorithms`.
+- :computer:  I have successfully solved over `750 Data Structures and Algorithm problems` on platforms like `GeeksforGeeks (GFG), LeetCode, and HackerRank`.
+- :trophy:  I have internship experience working as an `Android Developer` at `Meet University` and as a `Software Developer` at `Alphabet Technology`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xzQNR01MKlJzq849rJ_AScTao44BRGsh/view?usp=sharing).
