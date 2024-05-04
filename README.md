@@ -144,6 +144,30 @@
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Android.gif?raw=true" width = 50px>  </picture> Android
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%2334A853.svg?style=plastic&logo=postman&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-FE7A16?style=plastic&logo=express.js&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+</p>
+
+
 <br> 
 
 ---
