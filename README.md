@@ -78,7 +78,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
