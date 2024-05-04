@@ -78,6 +78,8 @@
  
 <p align="center">
   &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
