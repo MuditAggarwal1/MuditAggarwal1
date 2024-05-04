@@ -150,6 +150,8 @@
   &emsp;
     <a href="#"><img alt="MVVM Architecture" src="https://img.shields.io/badge/MVVM%20Architecture%20-%23F05033.svg?style=plastic&logo=mvvmarchitecture&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-FE7A16?style=plastic&logo=jetpackcompose&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit%20-%23F05033.svg?style=plastic&logo=retrofit&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="DataBinding" src="https://img.shields.io/badge/DataBinding-%23181717.svg?style=plastic&logo=databinding&logoColor=white"></a>
