@@ -103,6 +103,8 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%232C2255.svg?&style=plastic&logo=intellij%20idea&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
