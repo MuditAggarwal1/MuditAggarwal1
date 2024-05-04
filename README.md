@@ -17,6 +17,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xzQNR01MKlJzq849rJ_AScTao44BRGsh/view?usp=sharing).
+- :mailbox: How to reach me **muditaggarwal12345@gmail.com**
 - :boom: You can visit [MY WEBSITE](https://mudit-aggarwal-portfolio.vercel.app/).
 <br>
 
