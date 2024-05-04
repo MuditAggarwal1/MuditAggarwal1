@@ -99,7 +99,7 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%2334A853.svg?style=plastic&logo=postman&logoColor=white"></a>
   &emsp;
@@ -107,11 +107,11 @@
   &emsp;
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-FE7A16?style=plastic&logo=express.js&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/Json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/MuditAggarwal1/CashMate/assets/135834440/a17a3b06-2a2d-4727-9e88-7719aa210b9b" width = 50px>  </picture> Android
@@ -145,9 +145,9 @@
   &emsp;
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%232C2255.svg?&style=plastic&logo=intellij%20idea&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/Jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
