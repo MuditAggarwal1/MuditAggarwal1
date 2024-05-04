@@ -114,25 +114,6 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/MuditAggarwal1/CashMate/assets/135834440/a17a3b06-2a2d-4727-9e88-7719aa210b9b" width = 50px>  </picture> Android
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="MVVM Architecture" src="https://img.shields.io/badge/MVVM%20Architecture%20-%23F05033.svg?style=plastic&logo=mvvmarchitecture&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-FE7A16?style=plastic&logo=jetpackcompose&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit%20-%23F05033.svg?style=plastic&logo=retrofit&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="DataBinding" src="https://img.shields.io/badge/DataBinding-%23181717.svg?style=plastic&logo=databinding&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Room Database" src="https://img.shields.io/badge/Room%20Database%20-%2334A853.svg?style=plastic&logo=roomdatabase&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Coroutines" src="https://img.shields.io/badge/Coroutines-000000?style=plastic&logo=coroutines&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Navigation Components" src="https://img.shields.io/badge/Navigation%20Components-FE7A16?style=plastic&logo=navigationcomponents&logoColor=white"></a>
-</p>
-
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
@@ -161,6 +142,25 @@
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+</p>
+
+ ### <picture> <img src = "https://github.com/MuditAggarwal1/CashMate/assets/135834440/a17a3b06-2a2d-4727-9e88-7719aa210b9b" width = 50px>  </picture> Android
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="MVVM Architecture" src="https://img.shields.io/badge/MVVM%20Architecture%20-%23F05033.svg?style=plastic&logo=mvvmarchitecture&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-FE7A16?style=plastic&logo=jetpackcompose&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit%20-%23F05033.svg?style=plastic&logo=retrofit&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="DataBinding" src="https://img.shields.io/badge/DataBinding-%23181717.svg?style=plastic&logo=databinding&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Room Database" src="https://img.shields.io/badge/Room%20Database%20-%2334A853.svg?style=plastic&logo=roomdatabase&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Coroutines" src="https://img.shields.io/badge/Coroutines-000000?style=plastic&logo=coroutines&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Navigation Components" src="https://img.shields.io/badge/Navigation%20Components-FE7A16?style=plastic&logo=navigationcomponents&logoColor=white"></a>
 </p>
 
 
