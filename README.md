@@ -52,19 +52,19 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.kotlin.com" target="_blank"> 
+  <a href="https://kotlinlang.org/" target="_blank"> 
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23007396.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
    &emsp;
-  <a href="https://www.dart.com" target="_blank"> 
+  <a href="https://dart.dev/" target="_blank"> 
     <img alt="Dart" src="https://img.shields.io/badge/Dart-%23007396.svg?style=plastic&logo=dart&logoColor=white">
   </a>
    &emsp;
-  <a href="https://www.sql.com" target="_blank"> 
+  <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007396.svg?style=plastic&logo=sql&logoColor=white">
   </a>
    &emsp;
-  <a href="https://www.xml.com" target="_blank"> 
+  <a href="https://www.w3schools.com/xml/" target="_blank"> 
     <img alt="XML" src="https://img.shields.io/badge/XML-%23007396.svg?style=plastic&logo=xml&logoColor=white">
   </a>
   &emsp;
