@@ -11,7 +11,7 @@
 <br><br>
 - :school:  I am pursuing `Bachelor of Technology (B.Tech)` in `Computer Science Engineering` at [Indian Institute of Information Technology, Una](https://www.iiitu.ac.in/).
 - :student:  I am currently deepening my knowledge in `Software Development` and `Data Structures & Algorithms`.
-- :computer:  I have successfully solved over `750 Data Structures and Algorithm problems` on platforms like `GeeksforGeeks (GFG), LeetCode, and HackerRank`.
+- :computer:  I have successfully solved over `1500 Data Structures and Algorithms problems` on `[LeetCode](https://leetcode.com/u/muditaggarwal1/) and [GeeksforGeeks(GFG)](https://www.geeksforgeeks.org/user/mysterio2002/)`.
 - :trophy:  I previously had internship experience working as an `Android Developer` at [Meet University](https://www.meetuniversity.com/home) and as a `Software Developer` at [Alphabet Technology](https://www.alphabettechnology.in/).
 - :information_desk_person: All of my projects are available [here.](https://github.com/MuditAggarwal1?tab=repositories)
 - :technologist: I love using `Software` as a solution for every `Problem`.
