@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- 👨‍💼:  I am currently working as a 'Software Engineer I' at [MAQ Software](https://maqsoftware.com/).
+- 👨‍💼:  I am currently working as a `Software Engineer I` at [MAQ Software](https://maqsoftware.com/).
 - :school:  I pursued `Bachelor of Technology (B.Tech)` in `Computer Science Engineering` at [Indian Institute of Information Technology, Una](https://www.iiitu.ac.in/).
 - :student:  I am currently deepening my knowledge in `Software Development` and `Data Structures & Algorithms`.
 - :computer:  I have successfully solved over `1500 Data Structures and Algorithms problems` on [LeetCode](https://leetcode.com/u/muditaggarwal1/) and [GeeksforGeeks(GFG)](https://www.geeksforgeeks.org/user/mysterio2002/).
@@ -17,7 +17,7 @@
 - :information_desk_person: All of my projects are available [here.](https://github.com/MuditAggarwal1?tab=repositories)
 - :technologist: I love using `Software` as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xzQNR01MKlJzq849rJ_AScTao44BRGsh/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gtfVMcoWIgUOLAM4IMaUclWrttksvyTy/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://mudit-aggarwal-portfolio.vercel.app/).
 <br>
 
