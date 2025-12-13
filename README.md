@@ -9,7 +9,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school:  I am pursuing `Bachelor of Technology (B.Tech)` in `Computer Science Engineering` at [Indian Institute of Information Technology, Una](https://www.iiitu.ac.in/).
+- 👨‍💼:  I am currently working as a 'Software Engineer I' at [MAQ Software](https://maqsoftware.com/).
+- :school:  I pursued `Bachelor of Technology (B.Tech)` in `Computer Science Engineering` at [Indian Institute of Information Technology, Una](https://www.iiitu.ac.in/).
 - :student:  I am currently deepening my knowledge in `Software Development` and `Data Structures & Algorithms`.
 - :computer:  I have successfully solved over `1500 Data Structures and Algorithms problems` on [LeetCode](https://leetcode.com/u/muditaggarwal1/) and [GeeksforGeeks(GFG)](https://www.geeksforgeeks.org/user/mysterio2002/).
 - :trophy:  I previously had internship experience working as an `Android Developer` at [Meet University](https://www.meetuniversity.com/home) and as a `Software Developer` at [Alphabet Technology](https://www.alphabettechnology.in/).
